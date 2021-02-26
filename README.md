@@ -3,12 +3,12 @@ Hey there, here you can find some projects from my Business Intelligence &amp; P
 
 In the following you I will list the course outlines to show what knowledge I've got from my studies so far besides the projects. So, you are also able to see what I've done in courses where I was not allowed to share my semester project here due to the fact that we've worked together with companies and their sensitive data.
 
-##Strategic Issues of Information Technology
+## Strategic Issues of Information Technology
 The module focuses on the interaction between business strategy and information technology (IT): The students shall be familiarized with an understanding of strategic management approaches from a practice-oriented perspective. Based on real life business scenarios, the relevance of IT in the context of strategy development will be discussed. These might be IT enabled business potential (e.g. by using Cloud Computing or mobile solutions) or the influence of IT on strategic decisions (e.g. during M&A Assessments).
 
 The content will be discussed based on real business scenarios. The students have to develop or validate their own IT driven business plans or IT concept. They need to validate a given strategy for an existent company (the “client”) from an Strategic IT perspective.
 
-###Learning Content
+### Learning Content
 
 Part A: Project Management and Customer Interaction
 
@@ -50,14 +50,14 @@ After completing this course, the students shall be able to:
 - manage complex client situations.
 
 
-##Data Science
+## Data Science
 We are drowning in information and starving for knowledge.
 
 With the advent of computers and the information age, statistical problems have exploded both in size and complexity. Challenges in the areas of data storage, organization and searching have led to the new field of "data science"; statistical and computational problems in biology and medicine have created "bioinformatics." Vast amounts of data are being generated in many fields, and both scientists and business majors need to understand how to learn from data.
 The learning problems that we consider can be roughly categorized as either supervised or unsupervised. In supervised learning, the goal is to predict the value of an outcome measure based on a number of input measures; in unsupervised learning, there is no outcome measure, and the goal is to describe the associations and patterns among a set of input measures.
 While some mathematical details are needed, we emphasize the methods and their conceptual underpinnings rather than their theoretical properties.
 
-###Learning content:
+### Learning content:
 
 Overview of Supervised Learning 
 
@@ -100,7 +100,7 @@ We are all living in the digital age, where we are faced with a continuous chang
 
 This course will teach students how to design data warehouse systems, visualize data with dashboards, and steer an organization in a data-driven way with corporate performance management.
 
-###Learning Content
+### Learning Content
 
 - Overview of Business Intelligence Systems
 - Business Intelligence Lifecycle Management
@@ -141,10 +141,10 @@ After completion of the course students should:
 - have gained hands-on experience with different Data Warehouse Systems by solving practical cases in teams
 - be able to perform a process mining project
 
-##Business Process Management
+## Business Process Management
 The course aims at preparing students for shaping process-oriented companies, which are both technology-centered as well as people-centered.
 
-###Learning Content
+### Learning Content
 
 1. Introducing Business Process Management (BPM)
 
