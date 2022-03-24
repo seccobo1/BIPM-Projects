@@ -1,0 +1,4 @@
+1. Notebook only runs in Colab. Download Notebook and open in Google Colab.
+2. Download trained model and pictures the model was trained with from here: https://drive.google.com/drive/folders/1FQ2MBkmkr0o4NdobQJUkKRsA5h5QL1tS?usp=sharing 
+3. Upload to your drive to match the paths in the notebook. 
+4. Done. Notebook Should run.
