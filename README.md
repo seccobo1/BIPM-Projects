@@ -187,3 +187,100 @@ Upon completion of the course the student has gained a sound understanding and h
 - Understanding IT as an Enabler for Business Process Improvements (Opportunities & Risks)
 - Managerial Methods for Modeling, Analyzing, and Designing Business Processes
 - Practical Process Modeling (with a State-of the-Art Tool)
+
+## Business Process Innovation Lab
+Students learn what it takes to „innovate business processes“, and how data can be used as a key enabler for process innovation. Designed as a „lab“, this course focuses on hands-on experiences. 
+
+### Learning Content
+Design Thinking
+- Principles
+- Procedure and selected techniques
+- Applicability in (process) management
+- Applicability for business innovation
+
+Agile Management
+- Principles
+- Procedure and selected techniques
+- Applicability in (process) management
+- Applicability for business innovation
+
+The "Lean" Paradigm & Customer-centered Work
+- How to really take the customer perspective
+- How to focus on the things that really count
+- How to create a "minimum viable product
+
+Agile work on ”innovation projects”
+- A ”hackathon” in 3 sprints
+- Innovating processes for real customers (customers are acquired during the semester)
+
+## Enterprise Architecture for Big Data
+The phenomenon of Big Data and the strong emergence of analytics have changed the business world. Business strategies and their underlying processes are now closely related to data driven transformations. The challenge for companies is to integrate all the different types of data into an appropriate IT-Infrastructure.
+In this course we will look at and work with the new emerging technologies using massively parallel computation (Hadoop, Spark). Students will learn how to plan and implement enterprise architectures for large scale information systems.
+
+### Learning Content
+- Designing Data-Intensive Applications
+- The role of Big Data in Enterprise Architectures
+- Big Data in the decision making process
+- Enterprise Architecture and EA Artifacts
+- Parallel and Distributed Data Processing
+- IT-Architecture for Big Data
+- NoSQL
+- Hadoop Ecosystem
+- Spark
+- Stream Processing
+
+## IT Security and Privacy
+Security threats are becoming more and more important for organisations. Additionally, governments and industry bodies getting descriptive around compliance requirements.
+
+Today security is more than a technical theme. Security is about managing critical and sensitive informations in all kind of organisations.Therefore organizational, technical and legal requirements have to match with business processes. All aspects construct a multidimensional cube which enables a multilayer understanding and reflection of strategic, technical and business impacts as well as risks.
+
+Compliance requirements like standards of IT security, the ISO family, national and international privacy laws reinforce the importance of information security management.
+
+With the increasing use of modern information technology, the aspect of data avoidance is becoming more and more important. Therefore, the topics of the protection of personal data are also discussed.
+
+### Learning Content
+- Security management
+◦ Strategy and risk management
+◦ Log management, vulnerability management, identity management, and configuration management
+◦ IT-service and incident management
+- Security goals
+◦ Confidentiality
+◦ Integrity
+◦ Availability
+- synchronous and asynchronous cryptography
+- Access tokens
+- Network security
+- Data backup strategies
+- High availability approaches
+- Hack lab
+- Segmentation and security architecture
+- State of today's security systems
+- Standards, compliance and controls
+- National and international laws
+- Security awareness
+
+## Text, Web and Social Media Analytics Lab
+With the massive growth of unstructured data in companies, analytics are becoming more important. In the "Analytics Lab" students implement an analytics project with unstructured data.
+
+### Learning Content
+Text Mining 
+- Text Preprocessing
+- Text Representation
+- Text Classification and Clustering
+- Text Visualization
+
+Web Analytics 
+- Web Content Analytics 
+- Web Crawling
+- Analyzing Web Structure
+
+Web Usage Analytics 
+- Web Tracking Tools
+- Web Metrics
+- A/B Testing
+- Business Decisions based on Web Analytics
+
+Social Media Mining
+- Main Social Media Sites and Access
+- Text Mining Applications in Social Media
+- Mining Social Graphs
